@@ -33,3 +33,18 @@ crash.*.log
 
 # Sample data
 sample-data/
+
+# DuckDB database files
+*.duckdb
+*.duckdb.wal
+*.duckdb.tmp/
+
+# dbt artifacts
+target/
+dbt_packages/
+logs/
+.user.yml
+
+# Local logs and backups
+*.log
+*.bak

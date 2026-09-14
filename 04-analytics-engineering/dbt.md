@@ -98,3 +98,7 @@ SaaS product that runs dbt Core under the hood. It gives you:
 - dbt Labs published an article in **October 2024** outlining how both products were meant to coexist side by side → [How we think about dbt Core and dbt Cloud](https://www.getdbt.com/blog/how-we-think-about-dbt-core-and-dbt-cloud)
 
 ---
+
+dbt Project Structure
+
+---
